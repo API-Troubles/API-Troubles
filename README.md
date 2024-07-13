@@ -5,8 +5,10 @@ My name is Felix!
 
 I'm a teen trying to learn programming and get a job in the field! I love coding during my spare time, ~~and bashing my head against my keyboard because of errors haha.~~ Trying to increase my awareness of these data-sucking monsters (*cough cough google cough*). Moving to privacy-focused apps slowly.
 
+I'm participating in this year's [Hack Club Arcade](https://hackclub.com/arcade/)! I'm trying to get myself some Yubico security keys haha.
+
 ## Goals:
-- Survive when robots take over earth
+- Survive when robots take over Earth
 - Get a job (Google?!?)
 - Don't disappoint my parents
 - Pass high school
