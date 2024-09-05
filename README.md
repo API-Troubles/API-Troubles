@@ -1,4 +1,4 @@
-j# Hello There! :wave:
+# Hello There! :wave:
 
 My name is Felix!
 
