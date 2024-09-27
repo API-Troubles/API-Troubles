@@ -11,7 +11,7 @@ I'm a teen trying to learn programming and get a job in the field! Proud member 
 - Pass high school
 
 ## Find Me!
-- I'm on the Arcade slack, find me @Felix Gao!
+- I'm on Hack Club's slack, find me @Felix Gao!
 - Something will be added to my website eventually, [felixgao.dev](https://felixgao.dev).
 
 ### Currently Learning/Messing Around With:
