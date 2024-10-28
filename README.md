@@ -41,6 +41,7 @@ Why isn't there a learned section? You never stop learning, tech always changes 
 
 Not very impressive... idc
 
-<img src="https://github-readme-stats.vercel.app/api?username=felixgao-0&theme=dark" alt="My github stats" style="width: 50%;">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=felixgao-0&theme=dark&layout=compact" alt="Top Langs" style="width: 50%;">
+<div style="display: flex; flex-direction: row; flex-wrap: wrap;">
+    <img src="https://github-readme-stats.vercel.app/api?username=felixgao-0&theme=dark" alt="My github stats" style="height: 200px; width: auto; flex: 1; max-width: 100%;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=felixgao-0&theme=dark&layout=compact" alt="Top Langs" style="height: 200px; width: auto; flex: 1; max-width: 100%;">
+</div>
