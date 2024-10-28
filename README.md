@@ -1,9 +1,9 @@
 # Hello There! :wave:
 
 <img src="https://assets.hackclub.com/flag-orpheus-left.svg" alt="Hack Club logo" width="200"/>
-
+<!-- Remove quote for now
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal)
-
+-->
 My name is Felix!
 
 I'm a teen trying to learn programming and get a job in the field! Proud and active member of Hack Club! I love coding during my spare time, ~~and bashing my head against my keyboard because of errors haha.~~ Well, I seem to be short on my readme quota, oh well I'll add more here soon!
