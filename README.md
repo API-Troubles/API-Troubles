@@ -28,6 +28,7 @@ I've attended Counterspell Ottawa, a 24-hour hackathon game-jam at Shopify HQ. T
 ![Static Badge](https://img.shields.io/badge/Javascript-D?style=for-the-badge&logo=javascript&color=#f0d81e&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/PortgreSQL-D?style=for-the-badge&logo=postgresql&color=212121&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Tailwind-D?style=for-the-badge&logo=tailwindcss&color=purple&logoColor=white)
+![Static Badge](https://img.shields.io/badge/nodedotjs-D?style=for-the-badge&logo=node%2Ejs&color=5FA04E&logoColor=white)
   
 ### Interested in Learning:
 ![Static Badge](https://img.shields.io/badge/Java-D?style=for-the-badge&logo=java&color=1f7fb6&logoColor=white)
